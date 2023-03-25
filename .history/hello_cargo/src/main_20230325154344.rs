@@ -13,14 +13,10 @@ fn main() {
 // Hi THis is message
 // Hi THis is message
 
-// trying out something new with login 
 
 // everythin till chapter 4 is below this line
 
 // dangling refrences
-
-// work on sign up
-
 
 // fn main() {
 //     let ref_to_nothing = dangling_ref();
