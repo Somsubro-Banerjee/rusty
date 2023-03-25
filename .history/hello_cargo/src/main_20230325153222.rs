@@ -6,12 +6,6 @@ fn main() {
 }
 
 // Hi THis is message
-// Hi THis is message
-// Hi THis is message
-// Hi THis is message
-// Hi THis is message
-// Hi THis is message
-// Hi THis is message
 
 // everythin till chapter 4 is below this line
 
