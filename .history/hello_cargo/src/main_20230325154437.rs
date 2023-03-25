@@ -19,12 +19,8 @@ fn main() {
 
 // dangling refrences
 
-// work on sign up
+// worki
 
-
-// abcd efgh hijk
-
-// hi vaish
 
 // fn main() {
 //     let ref_to_nothing = dangling_ref();

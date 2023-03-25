@@ -24,7 +24,7 @@ fn main() {
 
 // abcd efgh hijk
 
-// hi vaish
+// 
 
 // fn main() {
 //     let ref_to_nothing = dangling_ref();

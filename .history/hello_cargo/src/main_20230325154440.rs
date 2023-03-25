@@ -22,10 +22,6 @@ fn main() {
 // work on sign up
 
 
-// abcd efgh hijk
-
-// hi vaish
-
 // fn main() {
 //     let ref_to_nothing = dangling_ref();
 // }
